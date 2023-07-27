@@ -1,0 +1,11 @@
+Video Funcionaiento Python- Arduino:
+
+https://youtu.be/bvwJOSLH9Og
+
+Repositorio GitHub:
+
+https://github.com/Benipega/Proyecto-Final---Controlador-de-servos-con-ventana-sliders.git
+
+Grupo Compuesto por:
+
+Benjamin Perez - Hernan Silva - Elias Riquelme - Camilo Reyes - Jose Mora
